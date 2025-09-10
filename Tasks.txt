@@ -1,0 +1,47 @@
+bookmark
+drill through 
+page navigation 
+
+•	Ishchilar va sotuvchilar faoliyati
+•	Mijozlar va yetakchilar (leads)
+•	Call-center tahlili
+
+4. Asosiy tahlillar va ko‘rsatkichlar
+4-1. Mahsulot darajasidagi sotuv tahlili
+•	Har bir mahsulot va toifa bo‘yicha umumiy sotuv hajmi va tushum
+•	Eng ko‘p va eng kam sotilgan mahsulotlar (dinamik reyting)
+•	Oylik sotuvlar trendlari
+4-2. Yetkazib berish ko‘rsatkichlari
+•	Mahsulot va mamlakat bo‘yicha o‘rtacha yetkazib berish kunlari
+•	O‘z vaqtida va kechikkan yetkazib berishlar soni (SLA: 5 kun)
+•	Mamlakat bo‘yicha eksport ulushi (xarita orqali)
+4-3. Ombor holati
+•	Omborda qolgan mahsulotlar soni va omborda saqlangan kunlar
+•	60 kundan ortiq omborda qolgan mahsulotlarni ajratib ko‘rsatish (vizual yondashuv orqali)
+•	Ishlab chiqarilgan va ombordagi mahsulotlar taqqoslanmasi
+4-4. Sotuvchilar va ishchilar faoliyati
+•	Har bir sotuvchi tomonidan oyiga qancha mahsulot sotilgan
+•	Ishchilar tomonidan kuniga nechta mebel yasalgani (toifa bo‘yicha)
+•	Ishchilarning o‘rtacha ish vaqti (8 soat bilan solishtirma)
+•	Har bir ishchining brak mahsulotlari soni (sifat indikatori sifatida)
+4-5. Mijozlar va yetakchilar (leads)
+•	Lead manbasi bo‘yicha mijozlar oqimi (funnel vizual)
+•	Mijozlar xarid chastotasi (bir martalik yoki doimiy xaridorlar)
+•	Har oyda kelayotgan yangi potensial mijozlar soni
+4-6. Call-center tahlili
+•	Har bir operatorning kunlik ishlagan soatlari
+•	Har bir operatorga berilgan mijoz baholari (o‘rtacha)
+•	Eng yaxshi operator (yuqori baho, eng uzoq suhbat vaqti)
+
+
+
+5. Vizual va interaktiv talablar
+•	Bookmarklar orqali umumiy va batafsil sahifalar o‘rtasida o‘tish
+•	Kamida 1 ta drill-through sahifa bo‘lishi kerak (masalan, mahsulot tafsilotlari)
+•	Har bir sahifaga qulay navigatsiya tugmalari qo‘shish
+•	Dinamik tooltip’lar orqali qo‘shimcha ko‘rsatkichlarni ko‘rsatish
+•	Omborda uzoq saqlangan mahsulotlarga rangli ogohlantirish (conditional formatting)
+•	Zarurat bo‘lsa, qo‘shimcha vizuallar (masalan: KPI karta, Tornado chart) ishlatilishi mumkin
+
+
+

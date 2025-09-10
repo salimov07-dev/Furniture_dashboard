@@ -1,0 +1,17 @@
+--CREATE DATABASE Furniture_project
+GO
+
+USE Furniture_project
+GO
+
+SELECT * FROM INFORMATION_SCHEMA.TABLES
+GO
+
+SELECT * FROM Products
+SELECT * FROM Employees
+SELECT * FROM Customers
+SELECT * FROM Leads
+SELECT * FROM Orders
+SELECT * FROM Warehouse
+SELECT * FROM Production
+SELECT * FROM Calls
